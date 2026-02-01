@@ -8,13 +8,16 @@
 - SQL
 - Power BI
 - Excel
-- Pandas, NumPy
+- Pandas, NumPy, Matplotlib
 
 ### 📂 Projects
-- Sales Data Analysis
-- HR Analytics
-- EDA using Python
-- SQL Case Studies
+- Employee Performance Dashboard
+- Student Management System
+- Employee Management System 
+- Sales Dashboard
+- Student Marks Performance Report
+- Lucknow City Tour Website
+- Netflix Clone
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/aniket-gupta-94b39b36b/
