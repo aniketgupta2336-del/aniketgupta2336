@@ -18,6 +18,8 @@
 - Student Marks Performance Report
 - Lucknow City Tour Website
 - Netflix Clone
+- Churn Modeling 
+- Penguin Species Predictor
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/aniket-gupta-94b39b36b/
