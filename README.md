@@ -11,6 +11,8 @@
 - Pandas, NumPy, Matplotlib
 
 ### 📂 Projects
+- Habit Productivity Analysis
+- Churn Modeling Classification 
 - Employee Performance Dashboard
 - Student Management System
 - Employee Management System 
@@ -18,7 +20,6 @@
 - Student Marks Performance Report
 - Lucknow City Tour Website
 - Netflix Clone
-- Churn Modeling 
 - Penguin Species Predictor
 
 ### 📫 Connect with me
